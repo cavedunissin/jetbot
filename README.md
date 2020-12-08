@@ -1,5 +1,3 @@
-# jetbot
-=======
 # JetBot (CAVEDU Version)
 
 | 作者 |  JUIN TING KUO |
