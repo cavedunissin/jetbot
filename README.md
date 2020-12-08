@@ -19,7 +19,7 @@ ___
 下載本專案
 
 ```bash
-git clone --branch cave https://github.com/cavedunissin/jetbot.git
+git clone https://github.com/cavedunissin/jetbot.git
 ```
 
 ![](./pic/git-clone.png)
